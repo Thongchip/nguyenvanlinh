@@ -10,7 +10,7 @@
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
-        <body>
+        <body> 
             <declare name="x" type="Real" array="False" size=""/>
             <declare name="a" type="Real" array="False" size=""/>
             <output expression="&quot;nh&#7853;p a&quot;" newline="True"/>
